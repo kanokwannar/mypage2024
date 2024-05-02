@@ -39,3 +39,9 @@
     height: 200px;
     width: 200px;
   }
+  /* hr {
+    border-top: 1px dashed red;
+  } */
+.hr1 {
+  border-top: 2px dotted rgb(8, 50, 240);
+}
